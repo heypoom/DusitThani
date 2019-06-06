@@ -1,0 +1,37 @@
+Constitution of The Liberty of Dusit Thani
+------------------------------------------
+
+"Our value is freedoms that create no harm."
+
+Section 1: Definition of Dusit Thani.
+
+(1.1) Dusit Thani is a virtual internet space of liberty and freedom, which includes
+    A. Freedom to be alive
+    B. Freedom of association
+    C. Freedom of belief
+    D. Freedom of speech
+    E. Freedom to express oneself
+    F. Freedom of the press
+    G. Freedom to choose one's state in life
+    H. Freedom of talking to each other
+    I. Freedom of religion
+    J. Freedom from bondage and slavery
+(1.2) It is located at https://github.com/phoomparin/DusitThani
+(1.3) Main language of communication is English.
+
+Section 2: Governing Dusit Thani
+
+(2.1) Dusit Thani is governed by directed democracy without elected respensentive.
+    A. All state's decisions is concluded by winning 50% voting of all votes in that Pull Requests.
+    B. All decision must be concluded within 168 hours (7 days) after a Pull Request is created.
+    C. All voters must be listed inside "Population Registry" folders.
+
+Section 3: Population Registry
+
+(3.1) Any pull requests that adding new populations (Adding new files into "Population Registry")
+      can be approved by any ten percents of distinct total voters, but not more than 10 voters.
+      {MIN(CEIL(total population*0.1), 10)}
+(3.2) Any pull requests that changing or deleting population information, can be approved by any voter,
+      if that information is belong to the pull requests submitter. It can be verify the Github's account E-mail information.
+
+
